@@ -1,0 +1,3 @@
+- Hi, I’m @niedzii
+- 👀 I’m interested in java based web development
+- You can contact me on my linkedin https://www.linkedin.com/in/maciej-niedzi/
